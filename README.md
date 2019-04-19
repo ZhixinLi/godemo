@@ -1,2 +1,3 @@
 # godemo
 demo
+go
